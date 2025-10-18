@@ -1,4 +1,4 @@
-FROM python:3.8-alpine
+FROM python:3.14.0-alpine
 
 LABEL name="PDNS protobuf receiver" \
       description="PDNS protobuf receiver" \
